@@ -1,6 +1,7 @@
 # PwC PowerBI Virtual Experience Program:
 ## PowerBI-Dashboard-1: Call Centre Trends
 ![Task 2_Snapshot](https://github.com/NinadPatil66/PowerBI-Dashboards/assets/149456265/0032f698-1fad-4515-85f2-e8c7274ed683)
+The above dashboard provides trends and insights into various metrics and KPIs related to the Call Centre data. <br> It also provides the option of applying various filters such as Satisfaction Rating, Agent Name, Week, Topic etc.
 ## PowerBI Dashboard-2: Telecom Customer Retention Strategy
 The data provided has around 7043 customer records out of which 1869 have left within the last month. 
 - One trend that seems a bit peculiar is that customers are opting out of paperless billings (A whooping 1400 customers). A survey asking the customers as to why they are opting for "Paper Billings", can help to improve/earn new customers.
@@ -9,6 +10,6 @@ The data provided has around 7043 customer records out of which 1869 have left w
 - Fibre-optic customers also seem to be unhappy with the service, almost 1300 customers have left within the last month. An in-depth study as to why the service is not performing up to the mark is the need of the hour.
 - One more area to focus your attention towards is your digital technology stack. The electronic check method seems to have been frequently failing, which may have frustrated the 1K users who used the Electronic check method. Also, try to figure out if there are any significant issues with other payment issues. Fixing them can help to a great extent.
 - Finally, explaining the benefits of having device protection will help in retaining a significant chunk of the customers.
-Working on the above points will help in retaining the customers and lowering your churn rate for the next month.  
+Working on the above points will help in retaining customers and lowering your churn rate for the next month.  
 ## PowerBI-Dashboard-3: Diversity and Inclusion
 

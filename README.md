@@ -1,7 +1,11 @@
 # PwC PowerBI Virtual Experience Program:
 ## PowerBI-Dashboard-1: Call Centre Trends
 ![Task 2_Snapshot](https://github.com/NinadPatil66/PowerBI-Dashboards/assets/149456265/0032f698-1fad-4515-85f2-e8c7274ed683)
-The above dashboard provides trends and insights into various metrics and KPIs related to the Call Centre data. <br> It also provides the option of applying various filters such as Satisfaction Rating, Agent Name, Week, Topic etc.
+The above dashboard provides trends and insights into various metrics and KPIs related to the Call Centre data. It also provides the option of applying various filters such as Satisfaction Rating, Agent Name, Week, Topic etc. <br> Major Highlights from the Dashboard: 
+- 72% of the cases which were logged were resolved.
+- 81% of the calls were answered by the agents.
+- The average satisfaction rating was 3.4.
+- There were equal # of cases for each topic.
 ## PowerBI Dashboard-2: Telecom Customer Retention Strategy
 The data provided has around 7043 customer records out of which 1869 have left within the last month. 
 - One trend that seems a bit peculiar is that customers are opting out of paperless billings (A whooping 1400 customers). A survey asking the customers as to why they are opting for "Paper Billings", can help to improve/earn new customers.

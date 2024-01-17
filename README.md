@@ -1,5 +1,5 @@
 # PowerBI-Dashboard-1: Call Centre Trends
-![Screenshot 2024-01-17 221636](https://github.com/NinadPatil66/PwC-PowerBI-Virtual-Experience-Program/assets/149456265/c3250de7-5a81-4c56-b28b-5dab1dc4e6da)
+![Task 2_Snapshot](https://github.com/NinadPatil66/PwC-PowerBI-Virtual-Experience-Program/assets/149456265/564d9649-17e3-4206-8b1f-70c9ab642a52)
 The above dashboard provides trends and insights into various metrics and KPIs related to the Call Centre data. It also provides the option of applying various filters such as Satisfaction Rating, Agent Name, Week, Topic etc. <br> Major Highlights from the Dashboard: 
 - 72% of the cases which were logged were resolved.
 - 81% of the calls were answered by the agents.

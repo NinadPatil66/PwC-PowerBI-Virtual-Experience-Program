@@ -1,4 +1,3 @@
-# PwC PowerBI Virtual Experience Program:
 ## PowerBI-Dashboard-1: Call Centre Trends
 ![Task 2_Snapshot](https://github.com/NinadPatil66/PowerBI-Dashboards/assets/149456265/0032f698-1fad-4515-85f2-e8c7274ed683)
 The above dashboard provides trends and insights into various metrics and KPIs related to the Call Centre data. It also provides the option of applying various filters such as Satisfaction Rating, Agent Name, Week, Topic etc. <br> Major Highlights from the Dashboard: 

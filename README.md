@@ -2,9 +2,9 @@
 The virtual experience program provided a risk-free way to experience work on the job at PwC. I worked through different real-life but fictitious business use cases where PowerBI was used to design convincing visualizations to identify patterns, risks and opportunities in data, and turn them into actionable insights. 
 
 ## Details:
-•	Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
-•	Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
-•	Strong communication skills reflected in concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
+•	Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.<br>
+•	Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.<br>
+•	Strong communication skills reflected in concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.<br>
 •	Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
 ## PowerBI-Dashboard-1: Call Centre Trends

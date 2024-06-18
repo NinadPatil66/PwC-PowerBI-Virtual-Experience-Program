@@ -34,7 +34,12 @@ The data provided has around 7043 customer records out of which 1869 have left w
 - Fibre-optic customers also seem to be unhappy with the service, almost 1300 customers have left within the last month. An in-depth study as to why the service is not performing up to the mark is the need of the hour.
 - One more area to focus your attention towards is your digital technology stack. The electronic check method seems to have been frequently failing, which may have frustrated the 1K users who used the Electronic check method. Also, try to figure out if there are any significant issues with other payment issues. Fixing them can help to a great extent.
 - Finally, explaining the benefits of having device protection will help in retaining a significant chunk of the customers.
-Working on the above points will help in retaining customers and lowering your churn rate for the next month.  
+Working on the above points will help in retaining customers and lowering your churn rate for the next month.
 
 # PowerBI-Dashboard-3: Diversity and Inclusion
 The HR department at PhoneNow is highly into diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. Create visualizations to represent HR data. Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation particularly focusing on gender-related KPIs. Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
+
+## Power-BI Dashboard-4: Online Retail Store
+As a consultant, you need to review their data and provide insights that would be valuable to the CEO and CMO of the business. Management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year. The leadership is interested in viewing the metrics from both an operations and marketing perspective. Management also intends to expand the business and is interested in seeking guidance into areas that are performing well so they can keep a clear focus on what’s working. They would also like to view different metrics based on the demographic information that is available in the data. Help evaluate the current business performance and suggest metrics that would enable them to make the decision on expansion.
+
+What did I learn from this? - Metrics and Key Performance Indicators, CEO Dashboards

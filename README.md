@@ -1,3 +1,6 @@
+# Learnings Acquired:
+Framing the Business Scenario - Business Metrics and Key Performance Indicators, CEO Dashboards, Choosing the right visuals
+
 # Introduction:
 The virtual experience program provided a risk-free way to experience work on the job at PwC. I worked through different real-life but fictitious business use cases where PowerBI was used to design convincing visualizations to identify patterns, risks and opportunities in data, and turn them into actionable insights. 
 
@@ -39,7 +42,51 @@ Working on the above points will help in retaining customers and lowering your c
 # PowerBI-Dashboard-3: Diversity and Inclusion
 The HR department at PhoneNow is highly into diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. Create visualizations to represent HR data. Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation particularly focusing on gender-related KPIs. Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
 
-## Power-BI Dashboard-4: Online Retail Store
-As a consultant, you need to review their data and provide insights that would be valuable to the CEO and CMO of the business. Management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year. The leadership is interested in viewing the metrics from both an operations and marketing perspective. Management also intends to expand the business and is interested in seeking guidance into areas that are performing well so they can keep a clear focus on what’s working. They would also like to view different metrics based on the demographic information that is available in the data. Help evaluate the current business performance and suggest metrics that would enable them to make the decision on expansion.
+# Power-BI Dashboard-4: Online Retail Store
+As a consultant, you need to review their data and provide insights that would be valuable to the CEO and CMO of the business. Management wants to analyse, what are the major contributing factors to the revenue so they can strategically plan for next year. The leadership is interested in viewing the metrics from both an operations and marketing perspective. Management also intends to expand the business and is interested in seeking guidance into areas that are performing well so they can keep a clear focus on what’s working. They would also like to view different metrics based on the demographic information that is available in the data. Help evaluate the current business performance and suggest metrics that would enable them to make the decision on expansion.
 
-What did I learn from this? - Metrics and Key Performance Indicators, CEO Dashboards
+## Task 1:
+Questions a CEO can ask:
+1) Which regions are generating the most/least revenue? - Based on the fundamental source of income for the business, i.e., revenue. Revenue analysis is important to the CEO as top-level executives are always focused on earnings and how to increase it.
+
+2) What is the monthly trend of revenue, which months have faced the biggest increase/decrease?, Is there any seasonality in the sales? - Provide the CEO with insights on how the revenue is fluctuating each month. Such seasonal months would be necessary to identify as the CEO would be interested in devising a strategy that would gain the maximum benefit from the months that have greater demands.
+
+3) Who are the top customers and how much do they contribute to the total revenue? Is the business dependent on these customers or is the customer base diversified? - Identify what are the main drivers behind the total revenue, derive a strategy where the top customers can be targeted with more products that they can buy, and increase revenue. If the business is highly dependent on a few customers, the plan would be to increase the customer base and target more customers which would bring more revenue to the store.
+
+Questions a CMO can ask:
+1) What is the percentage of customers who are repeating their orders? Are they ordering the same products or different? - Come up with a strategy to target these customers with more offers and products that they would need. The analysis will also be done to see what they are buying the second time. Accordingly offers can be rolled out for these customers.
+
+2) What is the frequency of their repeat orders? - Determining how long the customers are taking to re-order from the store. Create a strategy to get the recent customers to revisit the business and spend more. For the customers who have not made purchases again from the store, efforts can be made to remind them that it has been a while since they last purchased from the store.
+
+3) What revenue is being generated from the customers who have ordered more than once? - Devise a marketing strategy to encourage customers who spend more money on repeat purchases to continue to do so.
+
+## Task 2:
+You have been asked by the CEO and CMO to provide visuals on the metrics that they wish to analyse for the online retail store that would explain the data and insights in the simplest possible manner. The visual should adequately convey the information that you are trying to present. Gather the requirements and provide them with the type of visual that would be best suited to the scenario. They want to understand how their business is performing and what areas are the key strengths of the company, identify opportunities that would lead to growth and generate more revenue in the future. This exercise is critical to the senior management as any incorrect representation can lead to a wrong message being conveyed, or a wrong decision taken by the management. 
+
+Common business scenarios and the best-suited visual:
+1) A line chart is used to represent repeated measurements taken over regular time intervals. Time is always displayed on the horizontal axis and values on the vertical axis. The result is a simple, straightforward way to visualize changes in one value relative to another. The line chart would enable the CEO to see important changes in the data, like seasonality or cyclic behaviour, which will provide a better understanding of the revenue and help forecast better. 
+
+2) A stacked bar chart would be used here as the chart allows users to compare subcomponent pieces across different categories. The height or length of the bars will represent the total revenue generated by each country. Each bar will be divided into the products sold, where the major portion will be allocated to the products that are generating more revenue. This will allow the CMO to view the total revenue data as well as the revenue for each individual product.
+
+3) The box plot would show the distribution of data based on a five-number summary (“minimum”, first quartile, median, third quartile, and “maximum”). Boxplots are used to graphically demonstrate the locality, spread and skewness groups of numerical data. Boxplots are used to graphically demonstrate the locality, spread and skewness groups of numerical data. By using the boxplot, we can easily spot outliers and the distribution of the plot.
+
+4) Column charts are used to display comparisons between different items, highlight differences, show trends and outliers, and reveal historical highs and lows. They are especially effective when you have data that can be split into multiple categories. In this case, the column chart would display the top 10 customers who are contributing the most to revenue. The first bar on the left would be the longest one and would display information for the customer who bought the most goods from the online store. The revenue contributed by each customer would gradually decline as the bars move to the right.
+
+5) A map chart would allow the CEO to view the demand information in a single view. The map chart will have all the countries on a single map and the demand will be displayed by highlighting the area of each country. Dark highlights would mean that the countries have high demand for products whereas the countries that are highlighted light colour are the ones that have low demand. Geographical data is best visualised using map charts as they are very easy to view and the underlying values are also easy to analyse.
+
+6) Pie charts are powerful for adding detail to other visualizations. Alone, a pie chart doesn’t give the viewer a way to quickly and accurately compare information. Since the viewer has to create context on their own, key points from your data are missed. Instead of making a pie chart the focus of your dashboard, try using it to drill down on other visualizations.
+
+7) Density maps reveal patterns or relative concentrations that might otherwise be hidden helping you to identify locations with greater or fewer numbers of data points. Density maps are most effective when working with a data set containing many data points in a small geographic area.
+
+8) Scatter plots are an effective way to investigate the relationship between different variables, showing if one variable is a good predictor of another, or if they tend to change independently. A scatter plot presents lots of distinct data points on a single chart. The chart can then be enhanced with analytics like cluster analysis or trend lines.
+
+9) Gantt charts display a project schedule or show changes in activity over time. A Gantt chart shows steps that need to be completed before others can begin, along with resource allocation.
+
+10) Although bubbles aren’t technically their own type of visualization, using them as a technique adds detail to scatter plots or maps to show the relationship between three or more measures. Varying the size and color of circles creates visually compelling charts that present large volumes of data at once.
+
+11) Treemaps relate different segments of your data to the whole. As the name of the chart suggests, each rectangle in a treemap is subdivided into smaller rectangles, or sub-branches, based on its proportion to the whole. They make efficient use of space to show percent total for each category.
+
+
+
+
+
